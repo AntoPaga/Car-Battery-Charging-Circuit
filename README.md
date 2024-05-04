@@ -10,7 +10,8 @@ Its power is not limited to the scheme described, which represents the most conv
 
 Bill of Materials:
 R1: 4,7 ohm
-R2 : 100 ohm
+
+R2: 100 ohm
 R3 :1 K ohm
 R4 : 1,5 K ohm
 R5 : 680 ohm
